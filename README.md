@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Utku Akyıldız.
 - 👀 I’m interested in game development and fullstack web development.
-- 🌱 I’m currently learning Unity, Golang and Flutter.
+- 🌱 I’m currently learning Unity, Golang and Svelte. Also planing to learn Flutter in the future.
 - 💞️ I’m looking to collaborate on game projects like Unity's open project.
 - 📫 How to reach me: lixakyildiz@gmail.com
 
