@@ -1,12 +1,16 @@
-- 👋 Hi, I’m Utku Akyıldız.
-- 👀 I’m interested in game development and fullstack web development.
-- 🌱 I’m currently improving my skills in Unity, learning different aspects of game development.
-- 📫 How to reach me: lixakyildiz@gmail.com
+<h1 align="center">Hi 👋, I'm Utku Akyildiz</h1>
+<h3 align="center">A passionate game developer from Turkey</h3>
 
-I am currently working on a Hero Manager game with turn-based combat where you train and guide a team of heroes to become the best they can be.
-Take a look at https://twitter.com/cupkekgames
+- 🔭 I’m currently working on a Hero Manager game https://twitter.com/cupkekgames
 
-<!---
-Lix3nn53/Lix3nn53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📝 I write articles on [https://medium.com/@lix3nn](https://medium.com/@lix3nn)
+
+- 📫 How to reach me **lixakyildiz@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/yasar-utku-akyildiz/](https://www.linkedin.com/in/yasar-utku-akyildiz/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/lix3nn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lix3nn" height="30" width="40" /></a>
+<a href="https://discord.gg/k3yj8Az2VC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="k3yj8Az2VC" height="30" width="40" /></a>
+</p>
